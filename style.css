@@ -1,0 +1,100 @@
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0px;
+}
+h2{
+  text-align:center;
+  color:black;
+  font-size: 34px 
+}
+h3{
+   text-align:center; 
+  color:black;
+  font-size: 30px 
+}
+h4{
+ 
+  text-align:center;
+  color:black;
+  font-size: 18px;
+}
+
+body {
+    font-family: Adobe Caslon, sans-serif;
+ 
+  
+}
+
+header {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+   padding-top: 5px;
+text-align: center;
+
+}
+
+
+ol {
+    list-style: none;
+    display: inline;
+}
+
+li {
+    display: inline;
+    margin: 65px;
+  
+}
+
+
+ ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+main {
+  color: black;
+    padding: 50px;
+}
+
+section {
+  color: black; 
+    margin-bottom: 30px;
+   padding-left: 30PX; 
+  
+    
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+a.button{
+  border-radius: 3px;
+  color:white;
+  background-color:purple;
+  align-text:center;
+  padding: 6px 20px;
+  
+}
+.columna{
+  margin:auto;
+  width: 30%;
+  padding:10px;
+  float:left;
+  text-align:center;
+}
+.columna2{
+  margin:auto;
+  width: 100%;
+  padding:10px;
+  float:left;
+  text-align:center;
+}
+.formulario{
+  text-align:center;
+  display:flex;
+  align-items:flex-start;
+}
